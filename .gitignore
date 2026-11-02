@@ -1,0 +1,11 @@
+﻿discovery.csv
+discovery.json
+discovery.xlsx
+discovery_console.log
+discovery_report.txt
+run.db
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
